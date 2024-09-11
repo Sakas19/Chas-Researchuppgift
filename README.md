@@ -5,6 +5,9 @@
 - `cd` - Byter katalog. Exempel: `cd /Documents`.
 - `mkdir` - Skapar en ny mapp. Exempel: `mkdir ny_mapp`.
 
+## Terminal commands I have looked up on my own
+- `find` - Searches for files and directories based on specified criteria. Example: `find /home -name "*.txt"` finds all `.txt` files in the `/home`directory. 
+
 ## Git commands I learned in lectures
 - `git init` - Initierar ett nytt Git-repo.
 - `git status` - Visar ändrade filer och repo-status.
