@@ -9,8 +9,8 @@
 - `find` - Searches for files and directories based on specified criteria. Example: `find /home -name "*.txt"` finds all `.txt` files in the `/home`directory. 
 
 ## Git commands I learned in lectures
-- `git init` - Initierar ett nytt Git-repo.
-- `git status` - Visar ändrade filer och repo-status.
+- `git init` - Initializes a new Git repository.
+- `git status` -  Displays the status of changes in the repository, including modified files and the current branch.
 
 ## Git commands I have looked up on my own
 - `git rebase` - Rebases a branch into another. It’s used to integrate changes and keep the commit history linear. 
