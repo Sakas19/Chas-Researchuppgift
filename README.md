@@ -17,8 +17,8 @@
 - `git stash` - Temporarily saves changes in a stash without committing them, allowing you to restore them later. 
 
 ## Markdown and GitHub
-Markdown is a simple way to format text in files on GitHub. Here is an example of a [Markdown guide](https://www.markdownguide.org/).
-On GitHub, you can manage issues, create pull requests, and collaborate with others in teams through `GitHub Projects`.
+- Markdown is a simple way to format text in files on GitHub. Here is an example of a [Markdown guide](https://www.markdownguide.org/).
+- On GitHub, you can manage issues, create pull requests, and collaborate with others in teams through `GitHub Projects`.
 
 ### Image Example
 Here is an example of an image embedded in Markdown:
